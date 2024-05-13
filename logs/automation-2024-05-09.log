@@ -1,0 +1,59 @@
+17:26:44.228 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+17:26:44.235 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+17:26:44.733 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+17:26:44.794 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+17:31:12.450 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Shivam\eclipse-workspace\OpenCart\grouping.xml"
+17:31:12.666 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Shivam\eclipse-workspace\OpenCart\grouping.xml
+
+17:31:15.174 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****TC_001_AccountRegistrationTest is starting****
+17:31:15.253 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+17:31:15.685 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+17:31:15.685 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+17:31:18.469 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+17:31:18.507 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validatin expected message
+17:31:18.509 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Finished*****
+17:31:20.347 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+17:31:20.348 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+17:31:20.415 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+17:31:20.823 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+17:31:20.825 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+17:31:21.316 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+17:31:21.378 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+17:32:38.053 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Shivam\eclipse-workspace\OpenCart\grouping.xml"
+17:32:38.272 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Shivam\eclipse-workspace\OpenCart\grouping.xml
+
+17:32:41.501 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****TC_001_AccountRegistrationTest is starting****
+17:32:41.716 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+17:32:42.143 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+17:32:42.143 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+17:32:44.908 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+17:32:44.937 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validatin expected message
+17:32:46.980 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+17:32:46.980 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+17:32:47.185 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+17:32:47.549 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+17:32:47.551 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+17:32:48.043 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+17:32:48.089 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+17:43:02.707 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Shivam\eclipse-workspace\OpenCart\grouping.xml"
+17:43:02.922 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Shivam\eclipse-workspace\OpenCart\grouping.xml
+
+17:43:05.218 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****TC_001_AccountRegistrationTest is starting****
+17:43:05.299 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+17:43:05.695 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+17:43:05.695 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+17:43:08.499 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+17:43:08.530 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validatin expected message
+17:43:10.423 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+17:43:10.424 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+17:43:10.487 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+17:43:10.927 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+17:43:10.928 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+17:43:11.359 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+17:45:09.604 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Shivam\eclipse-workspace\OpenCart\grouping.xml"
+17:45:09.818 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Shivam\eclipse-workspace\OpenCart\grouping.xml
+
